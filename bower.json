@@ -1,0 +1,31 @@
+{
+  "name": "ng-http-canceller",
+  "main": "ngHttpCanceller.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adityaghosh1987/ngHttpCanceller",
+  "authors": [
+    "adityaghosh1987 <adityashr.ghosh@gmail.com>"
+  ],
+  "description": "This module will help you to cancel $http requests",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "$http",
+    "abort",
+    "http-canceller",
+    "ng-http-canceller",
+    "ng-$http-canceller",
+    "restangular-http-canceller"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
