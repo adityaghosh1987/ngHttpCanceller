@@ -8,7 +8,7 @@ You can install this package either with `npm` or with `bower`.
 ### npm
 
 ```shell
-npm install angular
+npm install ng-http-canceller
 ```
 
 Then add a `<script>` to your `index.html`:
