@@ -1,6 +1,6 @@
 {
   "name": "ng-http-canceller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module will help you to cancel $http requests",
   "main": "httpCancellerModule.js",
   "scripts": {
